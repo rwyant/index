@@ -13,4 +13,6 @@ The complete experience takes about 2 hours and can be played by groups of 2 or 
 Happy sleuthing!
 
 ## LINKS TO DOWNLOAD
-You can listen to a sample of [Ep. 1: The Truth](http://insideyapper.com/CerealSample/Sample1.mp3), you can download the [iOS Game from the App Store](https://itunes.apple.com/us/app/cereal-the-game/id981244698?mt=8), or you can pull the code from our [Cereal The Game GitHub Branch](https://github.com/rwyant/index/tree/master/Cereal%20The%20Game). Enjoy!
+- Listen to a sample of [Ep. 1: The Truth](http://insideyapper.com/CerealSample/Sample1.mp3)
+- Download the [iOS Game from the App Store](https://itunes.apple.com/us/app/cereal-the-game/id981244698?mt=8) 
+- Pull the code from our [Cereal The Game GitHub Branch](https://github.com/rwyant/index/tree/master/Cereal%20The%20Game)
