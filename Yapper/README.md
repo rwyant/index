@@ -2,12 +2,8 @@
 ## PROBLEM
 Stakeholder | Challenges | Desires
 --- | --- | ---
-Organization | - Decentralized engagement channels 
-- Lacks targeting & time-sensitivity 
-- Diverse, distributed member base | - Add value to members & attract new members - Deliver timely, relevant communication - Increase Participation
-Member | ```- Networking takes time & planning - Random solicitations are annoying & creepy - Irrelevant content noisy``` | ```- Easily find & connect with others 
-- In control of communications (_Who, What, Where_)
-- Receive only relevant content```
+Organization | - Decentralized engagement channels - Lacks targeting & time-sensitivity - Diverse, distributed member base | `- Add value to members & attract new members - Deliver timely, relevant communication - Increase Participation`
+Member | ```- Networking takes time & planning - Random solicitations are annoying & creepy - Irrelevant content noisy``` | ```- Easily find & connect with others - In control of communications (_Who, What, Where_) - Receive only relevant content```
 
 ## SOLUTION
 - A customized Community Engagement app
