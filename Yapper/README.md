@@ -1,22 +1,24 @@
 # Yapper - Membership, Engagement, and Retention
 ## PROBLEM
-Stakeholder | Challenges | Desires
---- | --- | ---
-Organization | - Decentralized engagement channels | - Add value to members & attract new members 
- | - Lacks targeting & time-sensitivity | - Deliver timely, relevant communication 
- | - Diverse, distributed member base | - Increase Participation
+### STAKEHOLDER: Organizations
+Challenges | Desires
+--- | ---
+- Decentralized engagement channels | - Add value to members & attract new members 
+- Lacks targeting & time-sensitivity | - Deliver timely, relevant communication 
+- Diverse, distributed member base | - Increase Participation
 
-Stakeholder | Challenges | Desires
---- | --- | ---
-Member | - Networking takes time & planning | - Easily find & connect with others 
- | - Random solicitations are annoying & creepy | - In control of communications (_Who, What, Where_) 
- | - Irrelevant content noisy | - Receive only relevant content
+### STAKEHOLDER: Members
+Challenges | Desires
+--- | ---
+- Networking takes time & planning | - Easily find & connect with others 
+- Random solicitations are annoying & creepy | - In control of communications (_Who, What, Where_) 
+- Irrelevant content noisy | - Receive only relevant content
 
 ## SOLUTION
 - A customized Community Engagement app
-- Full Suite of location-based community building tools
+- Full suite of location-based community building tools
 - Targeted content for member retention
-- Enhanced Member involvement, awareness, and access
+- Enhanced member involvement, awareness, and access
 
 ## MILESTONES
 - Launched nine apps in Apple’s iOS App Store under the dev account [YAPPERapp LLC](https://itunes.apple.com/us/developer/yapperapp-llc/id819629348)
@@ -26,7 +28,7 @@ Member | - Networking takes time & planning | - Easily find & connect with other
 - Selected into incubators 1776 & KiwiTech
 
 ## ENTERPRISE APPS
-- [Yapper](https://itunes.apple.com/us/app/yapper/id793885405?mt=8): _Yapper is a hyperlocal messaging platform that connects you with people nearby]._
+- [Yapper](https://itunes.apple.com/us/app/yapper/id793885405?mt=8): _Yapper is a hyperlocal messaging platform that connects you with people nearby._
 - [My Masa](https://itunes.apple.com/us/app/mymasa/id998058125?mt=8): _Masa Israel sends 10,000 American Jews to Israel on 9mo work/study abroad programs each year._
 - [GW Innovate](https://itunes.apple.com/us/app/gw-innovate/id1040386720?mt=8): _The GWU Department of Entrepreneurship helps connect current students to alumni, mentors, and teammates._
 - [PRSA-NCC](https://itunes.apple.com/us/app/prsa-ncc/id1051102028?mt=8): _PRSA is the leading source of public relations events, education, and networking._
@@ -37,12 +39,14 @@ Member | - Networking takes time & planning | - Easily find & connect with other
 
 ## SOFTWARE DEVELOPMENT KIT (SDK)
 ### Functionality 
-The SDK lets anybody create a public, group conversation where ever they are. The radius of the chat is customized, and anyone within that radius can participate in the conversation. There's no need to exchange phone numbers or contact information -- as long as you're within the radius of the conversation you can participate. 
+The SDK lets any mobile user create a public, group conversation where ever they are. The radius of the chat is customizable, and anyone within that radius can participate in the conversation. 
+
+With Yapper's SDK, there's no need to exchange phone numbers or contact information -- as long as you're within the radius of the conversation you can communcate with other people around you. 
 
 ### Drunk Mode
 Yapper has integrated our location-based group chat feature in [Drunk Mode](https://itunes.apple.com/us/app/drunk-mode-party-app-friend/id628228162?mt=8) as **'Hotspots'**.
 
-Other _Drunk Mode_ users can keep up on what is happening through a sophisticated system of geofences, push notifications, and most importantly, drunk people! 
+Other _Drunk Mode_ users can keep up with what's going on through a sophisticated system of geofences, push notifications, and most importantly, drunk people! 
 
 ## LESSONS LEARNED
-Founding a company brings with it a lifetime of _lessons learned_. This BRANCH is meant to be a living, breathing, and constantly evolving representation of the roller-coaster that comes with cofounding an early-stage startup -- come back in a few days to see all the new things that we add!
+The founding of an early-stage tech startup brings with it a lifetime of _lessons learned_. This BRANCH is meant to be a living, breathing, and constantly evolving representation of that roller-coaster -- come back in a few days to see all the new things that we add!

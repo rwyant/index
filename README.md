@@ -17,9 +17,6 @@ I hope you enjoy this journey; please do not hesitate to reach out with any ques
 - Mastered an Agile Project Management process by conducting daily SCRUM meetings with entire development team. 
 - Engineered the company’s core product – _a white-labeled iOS Mobile App_ – that uses GPS, geofencing, push notifications, crash reporting, Facebook and Twitter login, in app purchases, and verified user profiles. 
 
-### Background
-Why I founded Yapper.
-
 ### Milestones
 - Launched nine apps in Apple’s iOS App Store under the dev account [YAPPERapp LLC](https://itunes.apple.com/us/developer/yapperapp-llc/id819629348)
 - Launched one fully-integrated SDK in [Drunk Mode](https://itunes.apple.com/us/app/drunk-mode-party-app-friend/id628228162?mt=8)
@@ -28,7 +25,7 @@ Why I founded Yapper.
 - Selected into incubators 1776 & KiwiTech
 
 ### Lessons Learned
-Founding a company brings with it a lifetime of _lessons learned_. **_I am working on creating a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points._** This is a living, breathing, and constantly evolving representation of the roller-coaster that comes with cofounding an early-stage startup, so keep coming back to see all the new things that we add!
+The founding of an early-stage tech startup brings with it a lifetime of _lessons learned_. **_I am working on creating a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points._** This is a living, breathing, and constantly evolving representation of the roller-coaster that comes with cofounding an early-stage startup -- come back in a few days to see all the new things that we add!
 
 ## GENERAL ASSEMBLY	- New York, NY
 ### iOS Instructor, Global Advisor, Swift Guild Founder
