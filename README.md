@@ -6,7 +6,7 @@ This repo was created to help guide you through my story. I've worked on some fa
 
 I hope you enjoy this journey; please do not hesitate to reach out with any questions or feedback. Thanks!
 
-> Rob is a self-taught programmer who, most recently, performs as the CTO of a mobile SAAS startup servicing 10 enterprise clients and reaching 100,000 devices. Rob has programmed 10 iOS apps that are currently available in Apple’s App Store and teaches iOS Mobile Development (Swift) at General Assembly.
+> Rob is the CTO of a mobile SAAS startup servicing 10 enterprise clients and reaching 100,000 devices. Rob has programmed 10 iOS apps that are currently available in Apple’s App Store and teaches iOS Mobile Development (Swift) at General Assembly.
 
 > -Rob; [rob@getaypper.com](mailto:rob@getyapper.com)
 
