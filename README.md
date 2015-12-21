@@ -12,7 +12,7 @@ I hope you enjoy this journey; please do not hesitate to reach out with any ques
 
 ## YAPPER - New York, NY
 ### Co-founder, Chief Technical Officer
-- Founded a mobile SAAS startup that serviced 10 paying clients reaching 100,000 devices.
+- Founded a mobile SAAS startup that services 10 paying clients reaching 100,000 devices.
 - Designed technical architecture; implemented MySQL, AWS (_EC2, RDS & SNS_), Swift and Obj-C, Java and JavaScript, HTML and CSS, REST API, JSON Parsing, and XML. 
 - Mastered an Agile Project Management process by conducting daily SCRUM meetings with entire development team. 
 - Engineered the company’s core product – _a white-labeled iOS Mobile App_ – that uses GPS, geofencing, push notifications, crash reporting, Facebook and Twitter login, in app purchases, and verified user profiles. 
@@ -30,7 +30,7 @@ The founding of an early-stage tech startup brings with it a lifetime of _lesson
 ## GENERAL ASSEMBLY	- New York, NY
 ### iOS Instructor, Global Advisor, Swift Guild Founder
 - Instructor of GA’s Part-Time Mobile Development course (_iOS_) teaching Swift to non-programmers; rated as one of the company’s top professors with a 9.75/10 score. 
-- Communicate best practices for Swift 2.0 including: _XCode IDE, UIKit, Foundation, MVC, Delegates, Protocols, Table Views Frameworks (_iOS Frameworks, Parse, Fabric, Flurry_), Interface Builder, Testflight and iTunes Connect_
+- Communicate best practices for Swift 2.0 including: _XCode IDE, UIKit, Foundation, MVC, Delegates, Protocols, Table Views Frameworks (iOS Frameworks, Parse, Fabric, Flurry), Interface Builder, Testflight and iTunes Connect_
 - Launched an open-sourced app for the Swift Guild community to showcase student-built projects.
 
 ### Swift Guild
