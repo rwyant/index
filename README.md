@@ -25,7 +25,7 @@ I hope you enjoy this journey; please do not hesitate to reach out with any ques
 - Selected into incubators 1776 & KiwiTech
 
 ### Lessons Learned
-The founding of an early-stage tech startup brings with it a lifetime of _lessons learned_. **_I am working on creating a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points._** This branch will be a living, breathing, and constantly evolving representation of the roller-coaster that comes with cofounding an early-stage startup -- come back in a few days to see all the new things that we add!
+The founding of an early-stage tech startup brings with it a lifetime of _lessons learned_. **_I am working on creating a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points._** This branch will be a living, breathing, and constantly evolving representation of the roller-coaster that comes with cofounding an early-stage startup -- _come back in a few days to see all the new things that we add_!
 
 ## GENERAL ASSEMBLY	- New York, NY
 ### iOS Instructor, Global Advisor, Swift Guild Founder
@@ -34,7 +34,6 @@ The founding of an early-stage tech startup brings with it a lifetime of _lesson
 - Launched an open-sourced app for the Swift Guild community to showcase student-built projects.
 
 ### Swift Guild
-#### Summary
 I helped found a community of General Assembly alumni who have graduated from the Mobile Development course (_called the **Swift Guild**_). As a group, we are responsible for an iOS App that showcases student built projects and gives members of our community a platform to get real-world feedback & make agile iterations. 
 
 You can download the app from [Swift Guild on the App Store](https://itunes.apple.com/us/app/swift-guild/id1033229400?mt=8) or you can pull the code from the [Swift Guild GitHub Repository](https://github.com/rwyant/SwiftGuild).

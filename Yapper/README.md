@@ -1,4 +1,7 @@
 # Yapper - Membership, Engagement, and Retention
+## LESSONS LEARNED
+The founding of an early-stage tech startup brings with it a lifetime of _lessons learned_. This BRANCH is meant to be a living, breathing, and constantly evolving representation of that roller-coaster -- _come back in a few days to see all the new things that we add_!
+
 ## PROBLEM
 ### Organizations
 Challenges | Desires
@@ -47,6 +50,3 @@ With Yapper's SDK, there's no need to exchange phone numbers or contact informat
 Yapper has integrated our location-based chat feature in [Drunk Mode](https://itunes.apple.com/us/app/drunk-mode-party-app-friend/id628228162?mt=8) as **'Hotspots'**.
 
 Other _Drunk Mode_ users can keep up with what's going on through a sophisticated system of geofences, push notifications, and most importantly, drunk people! 
-
-## LESSONS LEARNED
-The founding of an early-stage tech startup brings with it a lifetime of _lessons learned_. This BRANCH is meant to be a living, breathing, and constantly evolving representation of that roller-coaster -- _come back in a few days to see all the new things that we add_!
