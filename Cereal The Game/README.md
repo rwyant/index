@@ -1,9 +1,4 @@
 # Cereal The Game
-## Welcome
-Welcome! This repo was created to help identify projects that I have contributed to. I hope you enjoy this journey and do not hesitate to reach out to me with any questions. Thanks!
-
--Rob; [rob@getaypper.com](mailto:rob@getyapper.com)
-
 ### SUMMARY
 For my final project in my Mobile Development course, I worked with a friend at Surprise Industries to create a delicious Murder Mystery Game, inspired by a certain homophonic podcast.
 

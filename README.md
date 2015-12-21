@@ -1,19 +1,29 @@
-# Rob Wyant's GitHub index
+# Rob Wyant's GitHub Index
 ## Welcome
-Welcome! This repo was created to help identify projects that I have contributed to. I hope you enjoy this journey and do not hesitate to reach out to me with any questions. Thanks!
+Welcome! This repo was created to help guide you through my story. I've worked on some fantastic projects -- _including a crowdfunding solution to pay college athletes, a murder mystery game, and of course, my own startup that has amassed 10 enterprise clients and reached 100,000 devices_. I hope you enjoy exploring this journey with me, and please do not hesitate to reach out with any questions or feedback. Thanks!
+
+```Rob is a self-taught programmer who, most recently, has performed as the CTO of a mobile SAAS startup servicing 10 enterprise clients and reaching 100,000 devices. Rob has programmed 10 iOS apps that are currently available in Apple’s App Store and teaches iOS Mobile Development (Swift) at General Assembly.```
 
 -Rob; [rob@getaypper.com](mailto:rob@getyapper.com)
 
-###Summary
-Rob is a self-taught programmer who, most recently, has performed as the CTO of a mobile SAAS startup servicing 10 enterprise clients and reaching 100,000 devices. Rob has programmed 10 iOS apps that are currently available in Apple’s App Store and teaches iOS Mobile Development (Swift) at General Assembly.
 
 ## YAPPER - New York, NY
 ### Co-founder, Chief Technical Officer
 - Founded a mobile SAAS startup that serviced 10 paying clients reaching 100,000 devices.
-- Launched nine apps in Apple’s iOS App Store under the dev account “YAPPERapp LLC” and one fully-integrated SDK in “Drunk Mode”; raised $200,000 in Seed Financing, employed 12 people, and selected into incubator 1776. 
 - Designed technical architecture; implemented MySQL, AWS (_EC2, RDS & SNS_), Swift and Obj-C, Java and JavaScript, HTML and CSS, REST API, JSON Parsing, and XML. 
 - Mastered an Agile Project Management process by conducting daily SCRUM meetings with entire development team. 
 - Engineered the company’s core product – a white-labeled iOS Mobile App – that uses GPS, geofencing, push notifications, crash reporting, Facebook and Twitter login, in app purchases, and verified user profiles. 
+
+### Background
+Why I founded Yapper.
+### Milestones
+- Launched nine apps in Apple’s iOS App Store under the dev account “YAPPERapp LLC” 
+- Launched one fully-integrated SDK in “Drunk Mode”
+- Raised $200,000 in Seed Financing
+- Employed 12 people
+- Selected into incubators 1776 & KiwiTech
+### Lessons Learned
+Founding a company brings with it a lifetime of _lessions learned_. I have created a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points. This branch is a living, breathing, and constantly evolving representation of the roller-coaster that is cofounding an early-stage startup. I will keep adding to this resource over time. 
 
 ## GENERAL ASSEMBLY	- New York, NY
 ### iOS Instructor, Global Advisor, Swift Guild Founder
@@ -23,15 +33,15 @@ Rob is a self-taught programmer who, most recently, has performed as the CTO of 
 
 ### Swift Guild
 #### Summary
-I helped found a community of General Assembly alumni who have graduated from the Mobile Development course, called the Swift Guild. We took responsibility over an iOS App that helps showcase student-built projectes and gives members of our community a platform to get real-world feedback and make agile iterations. 
+I helped found a community of General Assembly alumni who have graduated from the Mobile Development course, called the _Swift Guild_. As a group, we are responsible for an iOS App that helps showcase student built projects and gives members of our community a platform to get real-world feedback and make agile iterations. 
 
-You can download the iOS app from [Swift Guild on App Store](https://itunes.apple.com/us/app/swift-guild/id1033229400?mt=8) -- or -- you can pull the code from the [Swift Guild Repo](https://github.com/rwyant/SwiftGuild!
+You can download the iOS app from [Swift Guild on App Store](https://itunes.apple.com/us/app/swift-guild/id1033229400?mt=8) -- or -- you can pull the code from the [Swift Guild Repo](https://github.com/rwyant/SwiftGuild).
 
 ### Cereal The Game
 #### Summary
-For my final project in my Mobile Development course, I worked with a friend at [Surprise Industries](http://surpriseindustries.com) to create a delicious Murder Mystery Game, inspired by a certain homophonic podcast. 
+For my final project in my Mobile Development course, I worked with a friend at [Surprise Industries](http://surpriseindustries.com) to create a delicious Murder Mystery Game, that happened to be inspired by a certain homophonic podcast. 
 
-You can download the game on iPhones from [Cereal The Game on App Store](https://itunes.apple.com/us/app/cereal-the-game/id981244698?mt=8) -- or -- you can pull the code from the [Cereal The Game Repo](https://github.com/rwyant/index/tree/master/Cereal%20The%20Game) branch. Enjoy!
+You can listen to a sample of [Ep. 1: The Truth](http://insideyapper.com/CerealSample/Sample1.mp3), you can download the [iOS Game from the App Store](https://itunes.apple.com/us/app/cereal-the-game/id981244698?mt=8), or you can pull the code from our [Cereal The Game GitHub Branch](https://github.com/rwyant/index/tree/master/Cereal%20The%20Game). Enjoy!
 
 ##PLAY FOR - Washington, DC
 ### Co-founder, Strategy & Outreach
