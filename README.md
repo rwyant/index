@@ -28,7 +28,7 @@ Why I founded Yapper.
 - Selected into incubators 1776 & KiwiTech
 
 ### Lessons Learned
-Founding a company brings with it a lifetime of _lessons learned_. **_I am working on creating a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points._** This is a living, breathing, and constantly evolving representation of the roller-coaster that comes with cofounding an early-stage startup. Keep coming back to see all of the new resources as we keep adding to this venture. 
+Founding a company brings with it a lifetime of _lessons learned_. **_I am working on creating a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points._** This is a living, breathing, and constantly evolving representation of the roller-coaster that comes with cofounding an early-stage startup, so keep coming back to see all the new things that we add!
 
 ## GENERAL ASSEMBLY	- New York, NY
 ### iOS Instructor, Global Advisor, Swift Guild Founder
