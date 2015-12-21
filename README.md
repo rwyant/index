@@ -1,8 +1,14 @@
 # Rob Wyant's GitHub Index
 ## Welcome
-Welcome! This repo was created to help guide you through my story. I've worked on some fantastic projects -- _including a crowdfunding solution to pay college athletes, a murder mystery game, and of course, my own startup that has amassed 10 enterprise clients and reached 100,000 devices_. I hope you enjoy exploring this journey with me, and please do not hesitate to reach out with any questions or feedback. Thanks!
+Welcome! 
 
-```Rob is a self-taught programmer who, most recently, has performed as the CTO of a mobile SAAS startup servicing 10 enterprise clients and reaching 100,000 devices. Rob has programmed 10 iOS apps that are currently available in Apple’s App Store and teaches iOS Mobile Development (Swift) at General Assembly.```
+This repo was created to help guide you through my story. I've worked on some fantastic projects -- _including a crowdfunding solution to pay college athletes, a murder mystery game, and of course, my own startup that has amassed 10 enterprise clients and reached 100,000 devices_. 
+
+I hope you enjoy exploring this journey with me, and please do not hesitate to reach out with any questions or feedback. Thanks!
+
+```
+Rob is a self-taught programmer who, most recently, has performed as the CTO of a mobile SAAS startup servicing 10 enterprise clients and reaching 100,000 devices. Rob has programmed 10 iOS apps that are currently available in Apple’s App Store and teaches iOS Mobile Development (Swift) at General Assembly.
+```
 
 -Rob; [rob@getaypper.com](mailto:rob@getyapper.com)
 
@@ -16,14 +22,16 @@ Welcome! This repo was created to help guide you through my story. I've worked o
 
 ### Background
 Why I founded Yapper.
+
 ### Milestones
 - Launched nine apps in Apple’s iOS App Store under the dev account “YAPPERapp LLC” 
 - Launched one fully-integrated SDK in “Drunk Mode”
 - Raised $200,000 in Seed Financing
 - Employed 12 people
 - Selected into incubators 1776 & KiwiTech
+
 ### Lessons Learned
-Founding a company brings with it a lifetime of _lessions learned_. I have created a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points. This branch is a living, breathing, and constantly evolving representation of the roller-coaster that is cofounding an early-stage startup. I will keep adding to this resource over time. 
+Founding a company brings with it a lifetime of _lessons learned_. I have created a [separate branch](https://github.com/rwyant/index/tree/master/Yapper) to go over the really important points. This branch is a living, breathing, and constantly evolving representation of the roller-coaster that is cofounding an early-stage startup, so keep coming back to see all of the new resources added over time. 
 
 ## GENERAL ASSEMBLY	- New York, NY
 ### iOS Instructor, Global Advisor, Swift Guild Founder
