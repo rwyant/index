@@ -15,4 +15,4 @@ Happy sleuthing!
 ## LINKS TO DOWNLOAD
 - Listen to a sample of [Ep. 1: The Truth](http://insideyapper.com/CerealSample/Sample1.mp3)
 - Download the [iOS Game from the App Store](https://itunes.apple.com/us/app/cereal-the-game/id981244698?mt=8) 
-- Pull the code from our [Cereal The Game GitHub Branch](https://github.com/rwyant/index/tree/master/Cereal%20The%20Game)
+- View the [code](https://github.com/rwyant/index/blob/master/Cereal%20The%20Game/Cereal%20The%20Game.zip)
