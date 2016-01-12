@@ -3,14 +3,14 @@
 Welcome!
 
 This repo hosts the solution to General Assembly's iOS Development Course Midterm. The prompt was to create a fully-functioning Calculator App from scratch that includes 
-a) a display, 
-b) a numbered keypad, 
-c) an 'equals' button, 
-d) add, multiply, subtract, and divide operators, 
-e) a 'percent' button, 
-f) a 'clear' button, 
-g) a '+/-' button, and 
-h) supports portrait orientation. 
+- Display
+- Numbered keypad
+- Equals (=) button
+- Add, multiply, subtract, and divide operators
+- Percent (%) button
+- Clear (c) button
+- '+/-' button
+- Supports portrait orientation
 
 Here is the original prompt for this Midterm:
 
