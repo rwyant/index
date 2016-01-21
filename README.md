@@ -30,7 +30,7 @@ The founding of an early-stage tech startup brings with it a lifetime of _lesson
 ## GENERAL ASSEMBLY	- New York, NY
 ### iOS Instructor, Global Advisor, Swift Guild Founder
 Here's an example of a project we worked on in class: [Calculator App](https://github.com/rwyant/index/tree/master/Calculator)
-- Instructor of GA’s Part-Time Mobile Development course (_iOS_) teaching Swift to non-programmers; rated as one of the company’s top professors with a 9.75/10 score. 
+- Instructor of GA’s Part-Time Mobile Development course (_iOS_) teaching Swift to non-programmers. 
 - Communicate best practices for Swift 2.0 including: _XCode IDE, UIKit, Foundation, MVC, Delegates, Protocols, Table Views Frameworks (iOS Frameworks, Parse, Fabric, Flurry), Interface Builder, Testflight and iTunes Connect_
 - Launched an open-sourced app for the Swift Guild community to showcase student-built projects.
 
